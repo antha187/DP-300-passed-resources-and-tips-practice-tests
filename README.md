@@ -13,6 +13,7 @@ if you're planning to take the exam, i'd say focus on hands-on concepts, practic
 
 **✅ DP-300 Exam Tips
 **
+
 Understand the difference between IaaS vs PaaS SQL offerings (SQL Server on Azure VM vs Azure SQL DB vs Managed Instance).
 
 Practice T-SQL queries — expect questions that require a solid grasp of SQL for managing and querying data.
@@ -35,6 +36,7 @@ RBAC and security configuration in both portal and PowerShell/CLI will be tested
 
 **🔍 High-Priority DP-300 Exam Topics
 **
+
 🧠 Deployment Models & Configuration
 Differences between Azure SQL Database, SQL Managed Instance, SQL Server on VM
 
