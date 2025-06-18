@@ -11,7 +11,8 @@ i prepped for about 3 weeks — 1 week for videos and learning, then 2 weeks jus
 
 if you're planning to take the exam, i'd say focus on hands-on concepts, practice questions, and understanding how to actually manage and troubleshoot in azure — not just memorize definitions. and yeah, skillcertpro is worth trying, especially for building confidence with the format.
 
-✅ DP-300 Exam Tips
+**✅ DP-300 Exam Tips
+**
 Understand the difference between IaaS vs PaaS SQL offerings (SQL Server on Azure VM vs Azure SQL DB vs Managed Instance).
 
 Practice T-SQL queries — expect questions that require a solid grasp of SQL for managing and querying data.
@@ -32,7 +33,8 @@ Understand High Availability and DR setups (Failover groups, geo-restore, auto-f
 
 RBAC and security configuration in both portal and PowerShell/CLI will be tested.
 
-🔍 High-Priority DP-300 Exam Topics
+**🔍 High-Priority DP-300 Exam Topics
+**
 🧠 Deployment Models & Configuration
 Differences between Azure SQL Database, SQL Managed Instance, SQL Server on VM
 
