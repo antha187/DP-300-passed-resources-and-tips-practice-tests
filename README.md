@@ -16,7 +16,7 @@ Understand the difference between IaaS vs PaaS SQL offerings (SQL Server on Azur
 
 Practice T-SQL queries — expect questions that require a solid grasp of SQL for managing and querying data.
 
-Spend more time on Skillcertpro or Whizlabs mock tests to get used to the exam pattern and question style.
+Spend more time on Skillcertpro mock tests to get used to the exam pattern and question style.
 
 Use the Microsoft Learn paths and official documentation — hands-on experience with Azure Portal, CLI, and ARM templates is crucial.
 
